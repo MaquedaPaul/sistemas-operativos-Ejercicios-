@@ -1,0 +1,2 @@
+[F]  ----> Finalizado
+[ENP] ----> En Proceso
